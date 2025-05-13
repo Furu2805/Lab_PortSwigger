@@ -6,6 +6,10 @@ Ghi lại quá trình khai thác SQLi để lấy thông tin trong DB có tên b
 ### Mục tiêu
 Lấy được thông tin tài khoản `administrator` và login vào hệ thống.
 
+### Công cụ sử dụng
+- BurpSuite Community
+- Firefox Browser
+
 ### Các bước thực hiện
 1. **Thu thập thông tin (Recon)**
 - Kiểm tra tham số `category` trong URL (`filter?category=Gifts`) để kích hoạt lỗi SQL:
