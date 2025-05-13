@@ -60,7 +60,7 @@ Ghi lại quá trình khai thác SQLi để lấy thông tin tài khoản `admin
 
 ### Bài học rút ra
 - Nâng cao kĩ năng UNION để trích xuất dữ liệu đa cột và lấy thông tin phiên bản.
-- Hiểu cách sử dụng bảng information_schema.
+- Hiểu cách sử dụng bảng information_schema trong PostgreSQL.
 
 ### Tài liệu tham khảo
 - PortSwigger: SQL Injection cheat sheet
