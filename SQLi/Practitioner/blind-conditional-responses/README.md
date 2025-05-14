@@ -47,7 +47,7 @@ Ghi lại quá trình khai thác Blind SQLi để lấy mật khẩu của tài 
     ```
     - set payload như ảnh sau và được kết quả
       ![payload](./images/length.png)
-    payload §1§ 1->20
+    Xác nhận mật khẩu có độ dài là 20 kí tự
 
 - Tạo payload và gửi qua Burp Intruder, xử dụn kĩ thuật bruteforce để xác định mật khẩu
     ```
@@ -64,7 +64,7 @@ Ghi lại quá trình khai thác Blind SQLi để lấy mật khẩu của tài 
     ![login](./images/login_success.png)
 
 ### Bài học rút ra
-- Thành thạo khai thác blind SQL injection dựa trên phản hồi điều kiện.
+- Thành thạo khai thác blind SQL injection dựa trên phản hồi có điều kiện.
 - Nhận thức tầm quan trọng của kiểm tra đầu vào để ngăn chặn SQL injection.
 
 ### Tài liệu tham khảo
