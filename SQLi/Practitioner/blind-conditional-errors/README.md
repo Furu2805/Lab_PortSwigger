@@ -11,7 +11,7 @@ Ghi lại quá trình khai thác Blind SQLi sử dụng kĩ thuật kích hoạt
 - BurpSuite Community
 - Firefox Browser
 
-### Các bước thực hiện
+### Quy trình khai thác
 1. **Thu thập thông tin (Recon)**
 
 - Kiểm tra tham số `TrackingId` của header `Cookie` trong HTTP request được chặn trong BurpSuite
