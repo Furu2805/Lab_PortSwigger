@@ -3,7 +3,7 @@
 Đây là nơi mình lưu lại các write-up về 18 lab SQL Injection từ **PortSwigger Web Security Academy**. Mình đã làm từ cấp độ Apprentice (2 lab) đến Practitioner (16 lab), khám phá đủ thứ như UNION attack, blind SQLi, và bypass login.
 
 ### Tổng quan
-- **Số lab**: 18 (Apprentice: 5, Practitioner: 13).
+- **Số lab**: 18 (Apprentice: 2, Practitioner: 16).
 - **Kỹ thuật chính**:
   - SQLi cơ bản (WHERE clause, login bypass).
   - UNION attack (đếm cột, tìm cột text, trích dữ liệu đa cột).
