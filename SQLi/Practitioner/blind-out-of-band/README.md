@@ -8,7 +8,7 @@ Ghi lại quá trình khai thác Blind SQLi dựa trên kĩ thuật Out-Of-Band
 Thực hiện DNS lookup tới Burp Collaborator
 
 ### Công cụ hỗ trợ
-- BurpSuite Community
+- BurpSuite pro
 - Firefox Browser
 
 ### Các bước thực hiện
