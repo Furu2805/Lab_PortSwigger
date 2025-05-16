@@ -82,6 +82,6 @@ Ghi lại quá trình khai thác lỗi SQLi bằng cách vượt qua bộ lọc 
 - PortSwigger: Blind SQL Injection
 
 ### Kết luận
-Lab này giúp tôi hoàn thiện kỹ năng khai thác Blind SQL injection. Xem portfolio đầy đủ tại https://github.com/Furu2805/Lab_PortSwigger 
+Lab này giúp tôi hoàn thiện kỹ năng khai thác SQL injection. Xem portfolio đầy đủ tại https://github.com/Furu2805/Lab_PortSwigger 
 
 *Viết bởi Toàn Lương, Tháng 5/2025*.
