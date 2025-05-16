@@ -55,6 +55,6 @@ Ghi lại quá trình khai thác lỗ hổng liệt kê tên người dùng dự
 - PortSwigger: Authentication lab passwords
 
 ### Kết luận
-Lab này giúp tôi rèn luyện kỹ năng phân tích thời gian phản hồi để phát hiện username hợp lệ và sử dụng Burp Suite để khai thác lỗ hổng liệt kê username và brute-force mật khẩu.. Xem portfolio đầy đủ tại https://github.com/Furu2805/Lab_PortSwigger 
+Lab này giúp tôi rèn luyện kỹ năng phân tích thời gian phản hồi để phát hiện username hợp lệ và sử dụng Burp Suite để khai thác lỗ hổng liệt kê username và brute-force mật khẩu. Xem portfolio đầy đủ tại https://github.com/Furu2805/Lab_PortSwigger 
 
 *Viết bởi Toàn Lương, Tháng 5/2025*.
