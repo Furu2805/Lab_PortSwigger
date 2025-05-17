@@ -30,7 +30,7 @@ Ghi lại quá trình khai thác lỗ hổng trong chức năng đặt lại m�
 
 - **Kết luận**: Có thể dùng mã token của `wiener` để đặt lại mật khẩu cho bất kỳ tài khoản nào, như `carlos`, do lỗi trong cách ứng dụng xử lý.
 
-1. **Khai thác (Exploitation)**
+2. **Khai thác (Exploitation)**
 - Gửi POST Request đã bắt được vào Burp Repeater để thử nghiệm.
 - Truy cập lại trang `Forgot Password`, nhập username `wiener` để nhận một `temp-forgot-password-token` mới qua email client: `2nze07iozndod644324fv4gz2zhjrd0l`
     ![token](./images/email.png)
