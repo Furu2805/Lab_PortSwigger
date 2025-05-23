@@ -12,8 +12,8 @@ Khai thác lỗ hổng logic trong quy trình áp dụng mã giảm giá, lợi 
 
 ### Quy trình khai thác
 1. **Thu thập thông tin (Reconnaissance)**
-- Đăng nhập vào tài khoản wiener:peter.
-- Thêm sản phẩm Lightweight l33t Leather Jacket vào giỏ hàng:
+- Đăng nhập vào tài khoản `wiener`:`peter`.
+- Thêm sản phẩm `Lightweight l33t Leather Jacket` vào giỏ hàng:
 - Điền email lần đầu trong giỏ hàng, nhận hai mã coupon: `NEWCUST5` (giảm 5$) và `SIGNUP30` (giảm 30% - mã có khi signup lần đầu với email bất kì).
     ![coupon](./images/coupon.png)
     ![sign](./images/sign.png)
