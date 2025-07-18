@@ -1,4 +1,4 @@
-# XML External Entity Injection Write-ups
+# NoSQL Injection Write-ups
 Đây là nơi mình lưu lại các write-up về 4 lab NoSQL Injection từ PortSwigger Web Security Academy. Mình đang làm từ cấp độ Apprentice (2 lab) đến Practitioner (2 lab), khám phá các kỹ thuật như detecting injection, bypass authentication, và extract data.
 
 ### Tổng quan
